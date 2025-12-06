@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.hashmap","l":"Diccionario"},{"p":"com.mycompany.hashmap","l":"TablaHash"},{"p":"com.mycompany.hashmap","l":"TestTablaHash"}];updateSearchResults();
