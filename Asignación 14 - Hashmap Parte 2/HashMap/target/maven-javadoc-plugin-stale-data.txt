@@ -1,0 +1,41 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'22'
+-sourcepath
+'C:/Users/Martin Jesus Vzla/OneDrive/Documentos/NetBeansProjects/Asignación 14 - Hashmap Parte 2/HashMap/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Martin Jesus Vzla/OneDrive/Documentos/NetBeansProjects/Asignación 14 - Hashmap Parte 2/HashMap/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'HashMap 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'HashMap 1.0-SNAPSHOT API'
+com.mycompany.hashmap
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\src\main\java = 1764973823945
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\allclasses-index.html = 1764975943362
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\allpackages-index.html = 1764975943366
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\element-list = 1764975943306
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\help-doc.html = 1764975943393
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\index-all.html = 1764975943385
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\index.html = 1764975943389
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\member-search-index.js = 1764975943371
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\module-search-index.js = 1764975943368
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\overview-tree.html = 1764975943350
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\package-search-index.js = 1764975943369
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\search.html = 1764975943387
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\tag-search-index.js = 1764975943372
+C:\Users\Martin Jesus Vzla\OneDrive\Documentos\NetBeansProjects\Asignación 14 - Hashmap Parte 2\HashMap\target\reports\apidocs\type-search-index.js = 1764975943370
